@@ -1,4 +1,6 @@
-# Hacktoberfest-2019
+English | [简体中文](./README_zh-CN.md)
+
+## Hacktoberfest-2019
 
 [Hacktoberfest] A repository to practice creating a PR(pull request) and get a free T-shirt :tshirt: as reward
 
@@ -35,9 +37,9 @@ We know you can slove some issues and submit some PRs(at least 4) to practice. A
 
 ## You really care about what does the T-shirt look like
 
-Oh! Come on! Get more people involved and joined into `Open Source` in github is the motivation of this campaign. Come on, we are just learning(I am kidding, I totally agree that the T-shirt matters). Anyway, basically, it looks like:
+Oh! Come on! Get more people involved and joined into `Open Source` in github is the motivation of this campaign. Come on, we are just learning(I am kidding, :smile: I totally agree that the T-shirt matters). Anyway, basically, it looks like:
 
-![T-shirt from Hacktoberfest](https://hacktoberfest.digitalocean.com/photos.png)
+![T-shirt from Hacktoberfest](https://hacktoberfest.digitalocean.com/photos.png "T-shirt from Hacktoberfest")
 
 ## Have questions
 
