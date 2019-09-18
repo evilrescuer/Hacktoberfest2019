@@ -47,5 +47,5 @@ Any others questions, please email to hacktoberfest@digitalocean.com
 
 ## Others
 
-[how to fork a repository](https://help.github.com/en/articles/fork-a-repo)
-[how to create a PR](https://help.github.com/en/articles/creating-a-pull-request)
+1. [how to fork a repository](https://help.github.com/en/articles/fork-a-repo)
+2. [how to create a PR](https://help.github.com/en/articles/creating-a-pull-request)
