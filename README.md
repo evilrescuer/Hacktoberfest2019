@@ -8,7 +8,7 @@
 > If you are new to `github`, go over the learning links at the bottom of the page.
 You can also checkout [Github Learning](https://help.github.com/en#dotcom) if you wanna learn more.
 
-1. `Fork` this repository
+1. `Star` and `Fork` this repository
 
 2. Solve the `issues`(labelled with `Hacktoberfest`) of this repository
 
