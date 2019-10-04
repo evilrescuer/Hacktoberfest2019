@@ -9,7 +9,7 @@
  */
 class MatLab
 {
-    const PATH = "/home/helio/Projetos/Hacktoberfest2019-1/issue1.txt";
+    const PATH = "/Hacktoberfest2019-1/issue1.txt";
 
 
     public function soma(): void
@@ -22,7 +22,7 @@ class MatLab
         $handler = fopen(self::PATH, 'r');
         $result = 1;
         file_put_contents(
-            '/home/helio/Projetos/Hacktoberfest2019-1/issue1.txt',
+            '/Hacktoberfest2019-1/issue1.txt',
             $result , FILE_APPEND
         );
         fclose($handler);
