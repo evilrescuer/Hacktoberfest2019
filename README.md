@@ -40,7 +40,8 @@ We know you can slove some issues and submit some PRs(at least 4) to practice. A
 
 Oh! Come on! Get more people involved and joined into `Open Source` in github is the motivation of this campaign. Come on, we are just learning(I am kidding, :smile: I totally agree that the T-shirt matters). Anyway, basically, it looks like:
 
-![T-shirt from Hacktoberfest](https://tony-xia.github.io/images/post20190104/tshirt.jpg "T-shirt from Hacktoberfest(link from tony-xia's github)")
+![T-shirt from Hacktoberfest](https://tony-xia.github.io/images/post20190104/tshirt.jpg "T-shirt from Hacktoberfest")
+* this image is link from tony-xia's github
 
 ## Have questions
 
