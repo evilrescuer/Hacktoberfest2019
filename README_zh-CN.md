@@ -19,7 +19,8 @@
 
 ## 金主爸爸是谁
 
-[![logo of hacktoberfest](https://hacktoberfest.digitalocean.com/HF19_logo.png)](https://hacktoberfest.digitalocean.com/)
+[![logo of hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)](https://hacktoberfest.digitalocean.com/)
+
 请看 [活动页面](https://hacktoberfest.digitalocean.com/)
 
 ## 怎么才能拿到T-shirt
@@ -38,7 +39,9 @@
 
 此活动的初衷是希望更多人参与到开源中来，所以重点是学习（开个玩笑，:smile: T-shirt才是最重要的吧）。下面是图片：
 
-![T-shirt图样](https://hacktoberfest.digitalocean.com/photos.png "T-shirt图样")
+![T-shirt图样](https://tony-xia.github.io/images/post20190104/tshirt.jpg "T-shirt图样")
+
+* 图片来自tony-xia的github
 
 ## 还没明白
 
