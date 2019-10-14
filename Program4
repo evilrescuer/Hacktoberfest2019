@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main() {
+
+int a = 0 + 4;
+
+cout << "This is a c++ program to solve the issue 2"; 
+cout << endl;
+cout << "0 + 4 = " << a;
+	return 0;
+}
